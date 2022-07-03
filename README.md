@@ -1,10 +1,11 @@
 MVC Code First kullanarak oluşturduğum eşya satış sitesi.
 alsat olarak adlandırdığım sistemde kullanıcı kayıt ve giriş işlemleri yapılabiliniyor. Bu sayede proje geliştirilmeye açık hale gelmiş oluyor.
 
-Boostrap kullanarak hazırladığım admin panelinden siteye eşya ekleyebilirsiniz bu sayede satmak istediğiniz eşyalar sitenin anasayfasında listelenecektir
+Boostrap kullanarak hazırladığım admin panelinden siteye eşya ekleyebilirsiniz bu sayede satmak istediğiniz eşyalar sitenin anasayfasında listelenecektir.
 
-update-database komutunu kullanarak veri tabanını oluşturabilirsiniz
-proje_hakkinda adlı pdf dosyasında projeyi daha detaylı bir şekilde anlattım belgeyi incelemenizi öneririm
+update-database komutunu kullanarak veri tabanını oluşturabilirsiniz.
+
+proje_hakkinda adlı pdf dosyasında projeyi daha detaylı bir şekilde anlattım belgeyi incelemenizi öneririm.
 
 <p aling="center">
 <img align="center" src="https://user-images.githubusercontent.com/60429097/177060224-78863bdf-f883-4b41-b620-6f50a5365041.png" alt="Anasayfa" title="Angular" hspace="20"/></p> </br> 
