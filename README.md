@@ -10,3 +10,4 @@ update-database komutunu kullanarak veri tabanını oluşturabilirsiniz
 
 ![Resim2](https://user-images.githubusercontent.com/60429097/177059865-9d088af3-b402-486c-bac0-04c260381bd3.jpg)
 ![logo](https://user-images.githubusercontent.com/60429097/177059886-7ea7f7ca-a621-484c-833c-6b6f6d6fa6de.png)
+![336](https://user-images.githubusercontent.com/60429097/177059894-5a18d74c-0640-4b26-87e6-eadcea2ae905.png)
