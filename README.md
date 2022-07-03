@@ -5,8 +5,9 @@ Boostrap kullanarak hazırladığım admin panelinden siteye eşya ekleyebilirsi
 
 update-database komutunu kullanarak veri tabanını oluşturabilirsiniz
 <p aling="center">
-<img align="center" src="https://user-images.githubusercontent.com/60429097/177059805-2ddafb7e-8949-4488-b5c6-8e0ded9234ea.jpg" alt="Anasayfa" title="Angular" hspace="20"/> </br> <img align="center" src="https://user-images.githubusercontent.com/60429097/177059865-9d088af3-b402-486c-bac0-04c260381bd3.jpg" alt="Admin Panel" title="Angular" hspace="20"/>
+<img align="center" src="https://user-images.githubusercontent.com/60429097/177060224-78863bdf-f883-4b41-b620-6f50a5365041.png" alt="Anasayfa" title="Angular" hspace="20"/> </br> <img align="center" src="https://user-images.githubusercontent.com/60429097/177059865-9d088af3-b402-486c-bac0-04c260381bd3.jpg" alt="Admin Panel" title="Angular" hspace="20"/>
   </p>
+
 
 
 
