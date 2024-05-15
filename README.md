@@ -14,5 +14,4 @@ proje_hakkinda adlı pdf dosyasında projeyi daha detaylı bir şekilde anlattı
 
 
 
-![236](https://user-images.githubusercontent.com/60429097/177059902-182370d4-64a2-4aa2-8cf9-579c97173c3b.png) ![3a36](https://user-images.githubusercontent.com/60429097/177059991-efc87101-a225-4cd9-a8a5-e843c6e83196.png)
 
